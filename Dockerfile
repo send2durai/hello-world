@@ -5,6 +5,8 @@ From tomcat:8-jre8
 From alpine:3.7
 
 
-# Maintainer 
-MAINTAINER "durai5050@gmail.com" 
+# Maintainer
+
+MAINTAINER "send2durai@hotmail.com" 
+>>>>>>> parent of 4af52bc... Revert "just modify the email id in maintainer"
 COPY ./webapp.war /usr/local/tomcat/webapps
