@@ -6,6 +6,5 @@ From alpine:3.7
 
 
 # Maintainer 
-
-MAINTAINER "send2durai@hotmail.com" 
+MAINTAINER "valaxytech@gmail.com" 
 COPY ./webapp.war /usr/local/tomcat/webapps
