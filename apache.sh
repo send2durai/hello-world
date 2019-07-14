@@ -1,8 +1,5 @@
 
-
-###  this is a devlopement docker file information below,
-
-###   This is a shell script file to install apache-tomcat on linux OS
+###  This is a shell script file to install apache-tomcat on linux OS
 
 
 #! /bin/bash
