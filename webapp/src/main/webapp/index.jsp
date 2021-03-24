@@ -20,3 +20,20 @@
 </h1>   WHAT IS PYTHON? </h1>
 
 </h1> Python is an interpreted, high-level and general-purpose programming language </h1>
+
+            </h1> Build the Docker File with the following commands </h1>
+
+	    </h1> FROM ubuntu 
+MAINTAINER demousr@gmail.com 
+ENTRYPOINT [“echo”]
+CMD pwd
+sudo docker jenkins pull
+docker images
+sudo docker run --name=jenkins -d jenkins
+sudo docker ps
+sudo docker network ls 
+sudo docker network inspect networkname 
+sudo docker network inspect bridge
+sudo docker run –it ubuntu:latest /bin/bash
+
+</h1>
