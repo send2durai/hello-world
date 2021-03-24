@@ -7,3 +7,12 @@
 <h1> In general, an SRE team is responsible for availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning".  They split their time between operations/on-call duties and developing systems and software that help increase site reliability and performance
 </h1>
 
+<h1> Difference between Docker vs Kubernetes (k8's) </h1>
+
+<h1> Docker is a platform and tool for building, distributing, and running Docker containers.
+
+	                                   VERSUS
+
+	Kubernetes is a container orchestration system for Docker containers that is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner.
+
+</h1>
