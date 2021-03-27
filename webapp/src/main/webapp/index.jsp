@@ -18,7 +18,9 @@ DevOps is a set of practices that combines software development and IT operation
 <h1> Docker is a platform and tool for building, distributing, and running Docker containerization </h1>
 
 
-</h1> Kubernetes is a container orchestration system for Docker containers that is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner.
+</h1> 
+
+Kubernetes is a container orchestration system for Docker containers that is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner.
 
 </h1>
 
