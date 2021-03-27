@@ -13,17 +13,23 @@
 
 	                                   VERSUS
 
-	Kubernetes is a container orchestration system for Docker containers that is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner.
+
+Kubernetes is a container orchestration system for Docker containers that is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner.
 
 </h1>
 
+
 </h1>   WHAT IS PYTHON? </h1>
+
 
 </h1> Python is an interpreted, high-level and general-purpose programming language </h1>
 
-            </h1> Build the Docker File with the following commands </h1>
+ 
+</h1> Build the Docker File with the following commands </h1>
 
-	    </h1> FROM ubuntu 
+
+</h1>
+
 MAINTAINER demousr@gmail.com 
 ENTRYPOINT [“echo”]
 CMD pwd
