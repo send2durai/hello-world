@@ -30,21 +30,37 @@ Kubernetes is a container orchestration system for Docker containers that is mor
 <h1>
 
 RUN vs ENTRYPOINT vs CMD in docker?
+
 How to communicate two containers in different subnet?
+
 Where can I find the sha256 code of a docker image?
+
 Why are we using docker sha while pulling the docker images?
+
 Git rebase?
+
 Ansible Template?
+
 Ansible error ignore playbook?
+
 Terraform tfstate file
+
 Immutable vs mutable in python?
+
 ALB internal ip and external ip?
+
 A,Alias, CNAME recordS in route 53
+
 Inline policy in AWS?
+
 Docker image pulling sha value?
+
 Types of AWS AMI?
+
 Difference between VPC peering vs Transit Gateway?
+
 System status check vs Instance status check?
+
 Git Base vs Git Rebase?
 
 </h1>
