@@ -89,5 +89,22 @@ Projects can be grouped and controlled in a hierarchy
 
 </h1>
 
+</ shell script>
+
+#! /bin/sh
+a=10
+b=20
+
+if [$a ==$b]
+then
+    echo "a is equal to b"
+fi
+
+if [$a ! =$b]
+then
+    echo " a is not equal to b"
+fi
+
+
 
 
